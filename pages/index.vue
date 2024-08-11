@@ -1,7 +1,7 @@
 <template>
     <div class="flex flex-col py-10">
         <div>
-            <h2 class="text-2xl font-bold text-center">Nuxt Movies App</h2>
+            <h2 class="text-2xl font-bold text-center">Karthik Movies App</h2>
         </div>
         <div class="flex justify-center items-center h-32">
             <input v-model="searchTerm" placeholder="Search" type="text" class="px-2 py-1 border border-gray-800 rounded-md min-w-64">
